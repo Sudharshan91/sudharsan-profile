@@ -1,6 +1,6 @@
-# Hello, I'm Sudharsan 👋
+# Hello, I'm Sudharsan Srinivasan 👋
 
-I am a seasoned DevOps engineer with over 10 years of experience, specializing in Azure DevOps, Azure Cloud, Kubernetes (K8s), Docker, and Terraform.
+I am a DevOps and Cloud Automation Engineer with over 10 years of experience, specializing in Azure DevOps, Azure Cloud, Kubernetes (K8s), Docker, and Terraform.
 
 ## 🔧 Skills & Expertise
 
@@ -36,8 +36,7 @@ I am a seasoned DevOps engineer with over 10 years of experience, specializing i
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sudharsan-srinivasan-sep1991/)
 - **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-- **Instagram**: [@your-instagram-handle](https://instagram.com/your-instagram-handle) (About my god in my hometown, Padhur - Sri Prasanna Venkatesa Perumal)
 
 Feel free to reach out for collaboration or just a friendly chat about DevOps and cloud technologies!
